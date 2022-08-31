@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning DW, Docker, Airflow, Data Pipelines
-- 📫 &nbsp;How to reach me: [@HaydarZaraki](https://twitter.com/xxChiefxx) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 📫 &nbsp;How to reach me: [@HaydarZaraki](https://twitter.com/xxChiefxx)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
