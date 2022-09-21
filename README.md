@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working as a Python Backend Developer.
-- 🌱 &nbsp;I’m currently learning DW, Docker, Airflow, Data Pipelines, Spark, BigQuery.
+- 🌱 &nbsp;I’m currently learning DW, Docker, Airflow, Data Pipelines, Spark, BigQuery and DBT.
 - 📫 &nbsp;How to reach me:
  - LinkedIn: [@Haider Kunna](https://www.linkedin.com/in/haider-kunna-639894184/)
  - Email: (haydargaily@gmail.com)
