@@ -30,8 +30,12 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://twitter.com/xxchiefxx"><img src="https://img.shields.io/badge/-@xxchiefxx-00acee?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 
 ### &#x1f4c8; &nbsp; My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<a href="https://github.com/HaydarZaraki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  </a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarZaraki&layout=compact&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/HaydarZaraki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarZaraki&layout=compact&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
 
