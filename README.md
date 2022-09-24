@@ -27,6 +27,7 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="mailto:haydargaily@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/xxchiefxx"><img src="https://img.shields.io/badge/-@xxchiefxx-00acee?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 
+### &#x1f4c8; My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
