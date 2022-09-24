@@ -1,11 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 &nbsp;I’m currently working as a Python Backend Developer.
 - 🌱 &nbsp;I’m currently learning DW, Docker, Airflow, Data Pipelines, Spark, BigQuery and DBT.
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=ubuntu&logo=ubuntu&logoColor=white)&nbsp;
