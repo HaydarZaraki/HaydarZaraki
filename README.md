@@ -33,11 +33,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### &#x1f4c8; &nbsp; My GitHub Stats
 <a href="https://github.com/HaydarZaraki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true&disable_animations=True"/>
   </a>
 &nbsp; <p/> <br/>
 
 <a href="https://github.com/HaydarZaraki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarZaraki&layout=compact&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarZaraki&layout=compact&theme=radical&include_all_commits=true&count_private=true&disable_animations=True"/>
   </a>
 
