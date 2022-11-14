@@ -32,9 +32,9 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://twitter.com/xxchiefxx"><img src="https://img.shields.io/badge/-@xxchiefxx-00acee?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 
 ### &#x1f4c8; &nbsp; My GitHub Stats
-<a href="https://github.com/HaydarZaraki">
+<!-- <a href="https://github.com/HaydarZaraki">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaydarZaraki&show_icons=true&theme=radical&count_private=true&include_all_commits=true&disable_animations=True"/>
-  </a>
+  </a> -->
 &nbsp; <p/> <br/>
 
 <a href="https://github.com/HaydarZaraki">
